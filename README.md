@@ -1,4 +1,4 @@
-﻿# **Noblind Deblurring Real Image**  
+﻿# **Nonblind Deblurring Real Image**  
 -------  
 ## **1. Discription**  
 This project deblurring real image(e.g. image with motion blur and out-of-focus blur) quickly with PSF.  
